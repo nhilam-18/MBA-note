@@ -77,3 +77,11 @@ LIFO COGS (reported) - Increase in LIFO Reserve = Replacement Cost of COGS
     * Credit extended, often interest free
     * Can also carry early payment discounts
 - Payment of oustanding accounts payable with the discount period is advantageous 
+
+## Days' Payable Period 
+
+- Measures the extent to which a firm utilizes interest-free vendor financing
+- The longer the period, the greater the potential of being a future credit risk 
+
+**Note:** long payable period generally a red flag, however it need to be consider along with contractuat, industry standard/norm, liquidation.... 
+
