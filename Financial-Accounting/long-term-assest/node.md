@@ -11,7 +11,7 @@
     - retooling costs and interest related to this retooling
     - Retooling interest is sdisclosed separately 
 
-**Note:** All of these cost will go balance sheet 
+`Note: All of these cost will go balance sheet `
 
 ## Maintenance vs. Betterment 
 
@@ -19,7 +19,7 @@
     - Routine
     - expensed on the income statement 
 
-**Note:** Impact the income statement but not the balance sheet 
+`Note: Impact the income statement but not the balance sheet`
 
 * Betterment
     - Non0routine
@@ -27,7 +27,7 @@
     - Criteria (meet one)
         - extends life, improves quality of product, reduces expense associate w/asset 
 
-**Note:** when certain thing get classify as income statement the cost get deducted that year. When it get on balance sheet, it will get deduct over time 
+`Note: when certain thing get classify as income statement the cost get deducted that year. When it get on balance sheet, it will get deduct over time`
 
 ## Long-lived Assets Cost Allocation 
 * Long-lived asset categories
@@ -75,3 +75,34 @@ Operation expense for one period = $\frac{2}{n}$ (Book value)
 Relevant if the expected useful life is based on an asset’s usage rather than the passage of time.
 
 Depreciation expense for one period  = $\frac{OutPutConsumeThisPeriod}{TotalEstimatedLifeTimeOutPut}$ (Aquisition Cost - Residual Value)
+
+## Long-Lived Asset Revaluation 
+* GAPP requires downward revaluations 
+    - Depreciation 
+    - Impairment when future earning generation capacity declines
+* In other countries market valuation is allowed 
+    - E.g. UK, Australia, New Zzeeland
+    - Possibility for upwad adjustment 
+    - Accounted for using asset revaluation reserve 
+
+## Impairment 
+* An asset is impaired when 
+    - It is no longer expected to produce previously anticipated levels of revenue or cash flow 
+    - See Marriot example below from March 2020 
+
+## Sale or Retirement of Long-Lived Assets 
+* Must remove the asset's remanining book value from the accounting records
+    - Requires two removals
+        1. remove the cost of the asset being sold
+        2. Remove the related accumulated depreciation of the asset being sold 
+
+Proceeds from sale > Book value of the asset = Gain 
+Proceeds from sale < Book value of the asset = Loss 
+
+## Intangible Assets
+
+* Revenue producing assets (typically long lived), not in physical form 
+    - Intellectual property amortized using straight-line
+    - Goodwill from merger and acquisition
+
+Goodwill - purcahse price of target firm - fair market net asset value of firm 
