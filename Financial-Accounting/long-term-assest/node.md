@@ -27,7 +27,7 @@
     - Criteria (meet one)
         - extends life, improves quality of product, reduces expense associate w/asset 
 
-**Note:** when certaint thing get classify as income statement the cost get deducted that year. When it get on balance sheet, it will get deduct over time 
+**Note:** when certain thing get classify as income statement the cost get deducted that year. When it get on balance sheet, it will get deduct over time 
 
 ## Long-lived Assets Cost Allocation 
 * Long-lived asset categories
