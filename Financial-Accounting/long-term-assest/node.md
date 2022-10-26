@@ -60,6 +60,18 @@ Allocates the capitalized cost of an asset equally over the expected productive 
 
 Operating expense for one period = $\frac{1}{n}$(Acquisition cost - Residual value)
 
-Where n = Asset’s expected useful life in months or years, and Residual value = Estimated amount the asset             can be sold for at the end of its useful life
+Where n = Asset’s expected useful life in months or years, and Residual value = Estimated amount the asset can be sold for at the end of its useful life
+
+### Double-Declining Balance Method
+Results in the asset to be depreciated at a faster rate than straight-line 
+
+Operation expense for one period = $\frac{2}{n}$ (Book value)
+
+`n = asset’s expected useful life in months or years`
 
 
+### Units-of-Production Method
+
+Relevant if the expected useful life is based on an asset’s usage rather than the passage of time.
+
+Depreciation expense for one period  = $\frac{OutPutConsumeThisPeriod}{TotalEstimatedLifeTimeOutPut}$ (Aquisition Cost - Residual Value)
