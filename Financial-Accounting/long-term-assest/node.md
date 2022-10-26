@@ -105,4 +105,47 @@ Proceeds from sale < Book value of the asset = Loss
     - Intellectual property amortized using straight-line
     - Goodwill from merger and acquisition
 
-Goodwill - purcahse price of target firm - fair market net asset value of firm 
+Goodwill = purchase price of target firm - fair market net asset value of firm 
+
+### Goodwill Impairment
+* Goodwill not subject to amortization 
+    - Evaluated annually for impairment 
+        * ``results in reduction of goodwill(B/S) and impairment loss(I/S)``
+        * `` should be rare ``
+* Evaluating goodwill for impairment under U.S. GAAP 
+1. Identify the amount of goodwill associated with each prior corporate acquisition 
+2. Investor company estimates the value of goodwill asscoiated with each pror acquisition if the acquired entity were acquired at its current market value 
+
+### Intangibles Other Issues 
+* R&D 
+    - Expensed under GAAP; Development costs can be capitalized under IFRS 
+    - Can lead to inflated profit margins when develop product comes to market 
+
+* Marketing and Advertising 
+    - Expensed under GAAP and IFRS 
+    - Difficult to assess profitability so decision to expense when incurred 
+
+### Natural Resource 
+* Assets of te company, defined as materials or substances that occur in nature and that can be  used for economic gain 
+    - Examples: standing timber, oil and gas, iron ore, coal..
+* When purchased from other natural resource companies, these assets are reported on the balance sheet at their acquisition cost
+* When internally developed by a resource comapny, 2 valuation approaches are available
+
+## Analyzing Capital Investments 
+* The amount of a company's capital investment is identifiable from the investing activities section of the statement of cash flow 
+
+* Usually segmented into 2 categories: 
+1. Maintenance capital expenditures
+2. Incremental betterment capital expenditures 
+
+* Estimate of the number of years before a major capital sset refinancing will be required: 
+
+Estimated number of years remaining = [100 - $\frac{AccumulatedDepreciation}{GrossPPE}$] x Average Life Expectancy 
+
+* Thing to look for: 
+    - Is the deprecation method consistent with industry standard?
+    - Were there changes in depreciation methods?
+    - Is the company capitalizing any expenditures that would be more appropriately an expense?
+    - Are there capital investment write downs?
+    - Is the company capitalizing a significant amount of     interest costs?
+
