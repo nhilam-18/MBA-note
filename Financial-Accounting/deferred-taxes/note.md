@@ -50,3 +50,17 @@
 * Deferred tax asset (DTA) 
     - Tax payment greater than GAAP tax expense. Represent a future benefit as less taxes in future. 
 
+## Temporary Difference In Tax 
+* The deferred tax liability using the pretax and the income tax rate: 
+
+`` Overtime the amount of tax pay is the same, but company want it because they can deffer their tax. It's money company regconize they own the IRS but don't have to pay it back yet.`` 
+
+
+## Some sources of deferred tax assets 
+* Tax loss carryforward. When a company reports a loss for tax purposes
+    - can be carried forward indefinitely
+    - used to be able to carry backward for 2 years
+* Restructuring costs
+    - GAAP cost are estimated and accrued in the current period
+    - Howerver expense are not tax deductible until the period they are paid. 
+
