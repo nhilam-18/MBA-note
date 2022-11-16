@@ -147,5 +147,5 @@ Estimated number of years remaining = [100 - $\frac{AccumulatedDepreciation}{Gro
     - Were there changes in depreciation methods?
     - Is the company capitalizing any expenditures that would be more appropriately an expense?
     - Are there capital investment write downs?
-    - Is the company capitalizing a significant amount of     interest costs?
+    - Is the company capitalizing a significant amount of interest costs?
 
