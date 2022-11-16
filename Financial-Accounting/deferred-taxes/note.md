@@ -25,3 +25,28 @@
         * Disclose in footnote, but not accrue as liability 
     - Likelihood is remote 
         * Can be ignored; no F/S impact 
+
+## Permanent vs Temporary 
+
+* Permanent 
+    - Examples 
+        * Interest from municipal bond s
+        * Penalties and fines on illegal activities
+        * A portion of entertainment expenses
+
+* Temporary - reverse over time 
+    - Examples 
+        * expense difference between straight-line depreciation for GAAP and MACRS for tax 
+        * Revenue difference between installment method of erevenue recognition 
+
+
+## Deferred Tax Account 
+* Reconciling item between tax on income statement and currently due to tax authorities
+    - Number on balance sheet is cumulative
+
+* Deferred tax liability (DTL)
+    - Tax payment lower than GAAP tax expense. You own taxes in the future 
+
+* Deferred tax asset (DTA) 
+    - Tax payment greater than GAAP tax expense. Represent a future benefit as less taxes in future. 
+
